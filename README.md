@@ -1,2 +1,2 @@
 # Deep-Learning-NLU
-Deep learning sampls for Natural Language Understanding
+Deep learning samples for Natural Language Understanding
